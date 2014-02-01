@@ -1,0 +1,10 @@
+platforms
+node_modules
+dist
+.tmp
+.idea
+.sass-cache
+genwww
+plugins
+config
+
